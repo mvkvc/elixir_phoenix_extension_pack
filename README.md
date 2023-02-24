@@ -1,1 +1,3 @@
-# vscode_pack_elixir_phoenix
+# Elixir/Phoenix Extension Pack
+
+Opinionated set of extensions for Elixir and Phoenix development.

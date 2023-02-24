@@ -1,0 +1,16 @@
+{
+  "name": "elixir-phoenix-extension-pack",
+  "displayName": "Elixir/Phoenix Extension Pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs",
+    "Programming Languages"
+  ],
+  "extensionPack": [
+    "publisher.extensionName"
+  ]
+}
